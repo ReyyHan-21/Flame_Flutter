@@ -1,3 +1,3 @@
-# dasar_flame
+# Dasar Pembuatan Flame
 
-A new Flutter project.
+Project Ini Adalah project untuk membuat sebuah Game
